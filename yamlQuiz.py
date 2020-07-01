@@ -25,7 +25,7 @@ for filein in sys.argv[1:]:
 fullDeck = len(deck)
 print("\t 'q' to Quit, enter to continue")
 userInput = ""
-while True:
+while len(deck) > 0:
     cardsRemaining = len(deck)
     message = str(cardsRemaining) +"/"+ str(fullDeck) +" cards"
     userInput = input(message)
