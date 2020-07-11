@@ -1,34 +1,28 @@
 ---
-- section: Sample Section
-  description: "This is a section of notes"
-  sections:
-    - section: Key Terms
-      terms:
-        - term: "Imperative"
-          definition: |
-            An imperative is any proposition that declares a certain kind of
-            action (or inaction) to be necessary
 
-- section: Another Section
-  sections:
-    - section: Animals
-      terms:
-          - term: "Mammals"
-            definition: |
-                A warm-blooded vertebrate animal of a class that is
-                distinguished by the possession of hair or fur, the secretion of
-                milk by females for the nourishment of the young, and (typically)
-                the birth of live young.
-            examples:
-                - Dogs
-                - Cats
-                - Dolphins
+- term: "Imperative"
+  definition: |
+    An imperative is any proposition that declares a certain kind of
+    action (or inaction) to be necessary
 
-          - term: "Reptiles"
-            definition: |
-                A vertebrate animal of a class that includes snakes, lizards,
-                crocodiles, turtles, and tortoises. They are distinguished by
-                having a dry scaly skin and typically laying soft-shelled eggs
-                on land.
-            examples:
-                - Iguana
+- term: "Mammals"
+  definition: |
+        A warm-blooded vertebrate animal of a class that is
+        distinguished by the possession of hair or fur, the secretion of
+        milk by females for the nourishment of the young, and (typically)
+        the birth of live young.
+  examples:
+      - Dogs
+      - Cats
+      - Dolphins
+  keywords:
+      - warm-blooded
+
+- term: "Reptiles"
+  definition: |
+    A vertebrate animal of a class that includes snakes, lizards,
+    crocodiles, turtles, and tortoises. They are distinguished by
+    having a dry scaly skin and typically laying soft-shelled eggs
+    on land.
+  examples:
+    - Iguana
